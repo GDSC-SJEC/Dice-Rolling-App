@@ -28,7 +28,7 @@ These two resources have everything you need to learn about open-source, with a 
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates).
 
-   - `git remote add upstream https://github.com/GDSC-SJEC/404-Page-Challenge.git`
+   - `git remote add upstream https://github.com/GDSC-SJEC/Dice-Rolling-App.git`
    - `git pull upstream master`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
