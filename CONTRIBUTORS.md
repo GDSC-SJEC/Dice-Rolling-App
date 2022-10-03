@@ -1,3 +1,3 @@
-# Contributors to the 404 page challenge
+# Contributors to the dice rolling app challenge
 
 - [Pratheek R](https://github.com/pratheek-raghunath)
