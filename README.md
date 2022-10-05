@@ -1,6 +1,6 @@
 # Dice-Rolling-App
-Simple Dice Rolling App
 
+Simple Dice Rolling App
 
 ## ❇️ What is Hacktoberfest and how do I get started?
 
@@ -29,7 +29,7 @@ These two resources have everything you need to learn about open-source, with a 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates).
 
    - `git remote add upstream https://github.com/GDSC-SJEC/Dice-Rolling-App.git`
-   - `git pull upstream master`
+   - `git pull upstream main`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
 4. Create a branch.
@@ -39,11 +39,11 @@ These two resources have everything you need to learn about open-source, with a 
 6. Within this folder you just made, create a kotlin file with composables.
 
 7. Grab a screenshot of your final design, ensuring that its nicely cropped and preferably squared. Save this in your directory using `icon.png` as the name.
-    <br />Note: Make sure you have addded this screenshot since this screenshot will help us save time while verifying your work.
+   <br />Note: Make sure you have addded this screenshot since this screenshot will help us save time while verifying your work.
 
 8. Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
 
-    - `git pull upstream master`
+   - `git pull upstream main`
 
 9. Commit and push the code to your fork.
 
